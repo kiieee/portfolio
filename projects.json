@@ -3,30 +3,49 @@
         "title": "Webclone",
         "description": "My very first project! I attempted to clone a webpage at the end of my first ever week of coding.",
         "link": "https://github.com/kiieee/webclone",
-        "image": "./assets/images/webclone.png"
+        "image": "./assets/images/webclone.png",
+        "category": "front"
     },
     {
         "title": "Keycode Challenge",
         "description": "A simple application which displays the information of a key upon press, made using JS DOM.",
         "link": "https://github.com/kiieee/keycode",
-        "image": "./assets/images/keycode.png"
+        "image": "./assets/images/keycode.png",
+        "category": "front"
     },
     {
         "title": "Drumkit Challenge",
         "description": "A basic drumkit using JS DOM.",
         "link": "https://github.com/kiieee/drumkit",
-        "image": "./assets/images/drumkit.png"
+        "image": "./assets/images/drumkit.png",
+        "category": "front"
     },
     {
       "title": "React Calculator",
       "description": "A basic calculator using React JS.",
       "link": "https://github.com/yourusername/calculator",
-      "image": "./assets/images/calc.png"
+      "image": "./assets/images/calc.png",
+      "category": "front"
     },
     {
       "title": "E-commerce Site (Cats4Lyf)",
       "description": "Group project #2: A mockup online store with cats for sale, using cat images pulled from an API, created using  React JS.",
       "link": "https://github.com/yourusername/cats4lyf",
-      "image": "./assets/images/cats4lyf.png"
+      "image": "./assets/images/cats4lyf.png",
+      "category": "front"
+    },
+    {
+        "title": "MongoDB Database",
+        "description": "Created a database using MongoDB which can be tested using Thunder Client.",
+        "link": "https://github.com/kiieee/week7",
+        "image": "",
+        "category": "back"
+    },
+    {
+        "title": "Sequelize Database",
+        "description": "Created a database using Sequelize which can be tested using Thunder Client. This however does not have a working deleteAllBooks function.",
+        "link": "https://github.com/kiieee/sqlize",
+        "image": "",
+        "category": "back"
     }
   ]

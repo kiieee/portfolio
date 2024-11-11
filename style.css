@@ -7,9 +7,23 @@ body {
   }
   
   header {
-    background-color: #7d7f7c;
+    background-color: #333;
     color: #fff;
     padding: 1rem;
+  }
+  
+  .project-link, .return-link {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .project-link:hover, .return-link:hover {
+    background-color: #0056b3;
   }
   
   main {
@@ -33,9 +47,5 @@ body {
   .project-card img {
     max-width: 100%;
     border-radius: 8px;
-  }
-  
-  footer {
-    margin-top: 2rem;
   }
   
