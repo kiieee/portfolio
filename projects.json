@@ -1,0 +1,21 @@
+[
+    {
+      "title": "React Calculator",
+      "description": "A basic calculator using React JS.",
+      "link": "https://github.com/yourusername/react-calculator",
+      "image": "./assets/images/calculator.png"
+    },
+    {
+      "title": "E-commerce Site",
+      "description": "An online store built with React.",
+      "link": "https://github.com/yourusername/ecommerce-site",
+      "image": "./assets/images/ecommerce.png"
+    },
+    {
+      "title": "Virtual Pet Game",
+      "description": "A virtual pet game using JavaScript.",
+      "link": "https://github.com/yourusername/virtual-pet-game",
+      "image": "./assets/images/virtual-pet.png"
+    }
+  ]
+  
